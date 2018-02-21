@@ -1,6 +1,6 @@
-# Orientation Estimation with Unscented Kalman Filters (UKF)
+# Magic Cam
 
-This is a program with two function to beautify/change your appearance. This first one is removing or extenuating your wrinkles. The second is to mix your facial features with another person's through automatically detection. 
+This is a program with two function to beautify/change your appearance. This first one is removing or extenuating your wrinkles. The second is to mix your facial features with another person's through automatically detection. This a project co-worked with liuchen13.
 
 ## Getting Started
 1. Run main.py
