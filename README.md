@@ -18,7 +18,7 @@ OpenCV3
 ## test Results
 
 ### Texture Removal
-![alt text](https://github.com/Ougui9/Magic_Cam/blob/master/textureFlatteningResults/texture1.png)
+
 ![alt text](https://github.com/Ougui9/Magic_Cam/blob/master/textureFlatteningResults/texture2.png)
 ![alt text](https://github.com/Ougui9/Magic_Cam/blob/master/textureFlatteningResults/texture3.png)
 ![alt text](https://github.com/Ougui9/Magic_Cam/blob/master/textureFlatteningResults/texture4.png)
